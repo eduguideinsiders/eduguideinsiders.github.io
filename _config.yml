@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://eduguideinsiders.github.io
 title: EduGuide Insider
-tagline: A log of everyday life
-description: My awesome new site
+tagline: User Testing and Product development blog
+description: Check here often for general announcements about new features, updates, and user testing opportunities.
 paginate: 5
