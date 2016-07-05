@@ -2,7 +2,10 @@
 published: true
 title: Trial Team Testing
 layout: post
+categories: [exercises]
 ---
+# Trial Team Testing
+
 ## Overview
 
 ### About Teams
@@ -29,5 +32,9 @@ During this exercise, you will be testing the process of purchasing a trial team
 * Completing activities in the path
 
 Please use the tabs located to the right hand side of this page to submit questions or issues. You can send a chat message by clicking on “Open Chat,” and you can open a discussion ticket by clicking on “Help & Support.” Both methods may require you to either log in or register new accounts on third-party services. You can also submit feedback via email to [web@eduguide.org](mailto:web@eduguide.org).
+
+When you are ready, complete the form below.
+
+* * *
 
 <iframe src="https://docs.google.com/forms/d/1EQe6OjKA3uPAcKmvDmMSI8I2jVETpLDCAA49SqRLrXg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
