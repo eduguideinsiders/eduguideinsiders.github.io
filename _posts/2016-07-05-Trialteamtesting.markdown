@@ -4,8 +4,6 @@ title: Trial Team Testing
 layout: post
 categories: [exercises]
 ---
-# Trial Team Testing
-
 ## Overview
 
 ### About Teams
